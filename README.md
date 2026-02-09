@@ -76,3 +76,6 @@ Horizontal bar chart showing the number of customers in each segment.
 ### 🔹 RFM Metrics with Customer Counts
 - Bar chart: Average of **Recency, Frequency, Monetary**
 - Line plot: **Customer count**
+
+### ✨ Key Takeaway
+RFM analysis provides a simple yet powerful framework to segment customers and design targeted marketing strategies.
