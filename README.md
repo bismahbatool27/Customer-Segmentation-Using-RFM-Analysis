@@ -34,7 +34,7 @@ The goal is to segment customers into meaningful groups (Platinum, Loyal, Potent
 
 4. **Customer Segmentation**
    - Applied rules to classify customers:
-     - Champions, Loyal, Potential, At Risk, Lost
+     - Platinum, Loyal, Potential, At Risk, Lost
 
 5. **Analysis & Visualization**
    - Segment distribution
